@@ -42,10 +42,10 @@
     "serial": "242ee87d5ac1a677698d"
   },
   {
-    "sender": "6282310171838@s.whatsapp.net",
-    "pushname": "shin parker",
-    "umur": "shin, 17",
-    "serial": "ae9c83fb5645258e24ec",
-    "tanggal": "5/23/2025, 12:54:05 PM"
+    "id": "6282310171838@s.whatsapp.net",
+    "name": "shin parker",
+    "age": "shin, 17",
+    "time": "5/23/2025, 12:54:06 PM",
+    "serial": "ae9c83fb5645258e24ec"
   }
 ]
