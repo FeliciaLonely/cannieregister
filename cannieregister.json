@@ -112,10 +112,10 @@
     "serial": "c9fa278ac3c4220e7efa"
   },
   {
-    "sender": "62881011064922@s.whatsapp.net",
-    "pushname": "Čìķò",
-    "umur": "vinz 17",
-    "serial": "be5a101b3eb6981b6e2f",
-    "tanggal": "5/24/2025, 1:38:21 AM"
+    "id": "62881011064922@s.whatsapp.net",
+    "name": "Čìķò",
+    "age": "vinz 17",
+    "time": "5/24/2025, 1:38:22 AM",
+    "serial": "be5a101b3eb6981b6e2f"
   }
 ]
