@@ -126,10 +126,10 @@
     "serial": "02174549efae807161ba"
   },
   {
-    "sender": "6285624763201@s.whatsapp.net",
-    "pushname": "if (user.name == \"FeliceLonely\")",
-    "umur": "CANNIE 18",
-    "serial": "c2a3e55682605bc6bff3",
-    "tanggal": "5/24/2025, 11:16:37 AM"
+    "id": "6285624763201@s.whatsapp.net",
+    "name": "if (user.name == \"FeliceLonely\")",
+    "age": "CANNIE 18",
+    "time": "5/24/2025, 11:16:37 AM",
+    "serial": "c2a3e55682605bc6bff3"
   }
 ]
