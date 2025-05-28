@@ -175,10 +175,10 @@
     "serial": "6ddacf95016bccaec190"
   },
   {
-    "sender": "628811709063@s.whatsapp.net",
-    "pushname": "Silent VorteX X-TerrorX",
-    "umur": "18",
-    "serial": "1d82391ccdb2b4cac326",
-    "tanggal": "5/28/2025, 10:00:19 AM"
+    "id": "628811709063@s.whatsapp.net",
+    "name": "Silent VorteX X-TerrorX",
+    "age": "18",
+    "time": "5/28/2025, 10:00:20 AM",
+    "serial": "1d82391ccdb2b4cac326"
   }
 ]
