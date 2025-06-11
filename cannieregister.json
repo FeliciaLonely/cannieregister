@@ -182,10 +182,10 @@
     "serial": "1d82391ccdb2b4cac326"
   },
   {
-    "sender": "628815134694@s.whatsapp.net",
-    "pushname": "bill🦁",
-    "umur": "14",
-    "serial": "367c5568d2d75be75ec6",
-    "tanggal": "6/11/2025, 8:48:14 AM"
+    "id": "628815134694@s.whatsapp.net",
+    "name": "bill🦁",
+    "age": "14",
+    "time": "6/11/2025, 8:48:14 AM",
+    "serial": "367c5568d2d75be75ec6"
   }
 ]
