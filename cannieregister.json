@@ -189,10 +189,10 @@
     "serial": "367c5568d2d75be75ec6"
   },
   {
-    "sender": "6285809026857@s.whatsapp.net",
-    "pushname": "Syarif",
-    "umur": "17",
-    "serial": "c4caba6812bf1db9fd85",
-    "tanggal": "6/11/2025, 9:34:11 AM"
+    "id": "6285809026857@s.whatsapp.net",
+    "name": "Syarif",
+    "age": "17",
+    "time": "6/11/2025, 9:34:11 AM",
+    "serial": "c4caba6812bf1db9fd85"
   }
 ]
